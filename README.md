@@ -1,5 +1,7 @@
 # Facial Recognition and transforming images into Data in Azure ML
 
+[![License](https://img.shields.io/npm/l/react)](https://github.com/JadesonBruno/computer-vision-in-azure-ml/blob/main/LICENSE)
+
 This repository has the purpose of storing the project developed within the scope of the "Facial Recognition and transforming images into Data in Azure ML" module of the "Microsoft Azure AI Fundamentals" Bootcamp by [DIO](https://www.dio.me/), under the instruction of the teacher [Valéria Baptista](https://www.linkedin.com/in/valeriabaptista/).
 
 The project is an essential requirement for passing the "Working with Computer Vision" module, consolidating participants practical learning and preparing them for subsequent challenges.
