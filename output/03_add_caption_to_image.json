@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "fe0a77c9-74a5-4cc0-9482-dee697a0ac07",
+    "content-length": "173",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a group of people clinking glasses at a table",
+      "confidence": 0.8354523777961731
+    },
+    "metadata": {
+      "width": 960,
+      "height": 1280
+    }
+  }
