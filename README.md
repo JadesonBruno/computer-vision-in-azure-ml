@@ -45,6 +45,8 @@ Let's work with Vision Studio's Face Detection module.
 
 By selecting the desired image we can perform facial analysis.
 
+Image Used: [01_facial_analysis.jpg](./inputs/01_facial_analysis.jpg)
+
 <p align="center">
   <img src="./assets/05_facial_analysis.png" alt="Facial Analysis Result">
 </p>
@@ -69,7 +71,7 @@ Face mask: no
 
 It is important to highlight the ability that Computer Vision had to identify different faces, including the face of an animal, and also the faces of people wearing a mask.
 
-You can check the results of the analysis here: [01_facial_analysis.json]("./output/01_facial_analysis.json")
+You can check the results of the analysis here: [01_facial_analysis.json](./output/01_facial_analysis.json)
 
 ## Step 4: Document Analysis
 
@@ -81,13 +83,15 @@ Let's work with Vision Studio's Text Extract from images module.
 
 By selecting the desired image we can extract the text.
 
+Image Used: [02_text_extraction.jpg](./inputs/02_text_extraction.jpg)
+
 <p align="center">
   <img src="./assets/07_text_extracion.png" alt="Text extraction Result">
 </p>
 
 It is possible to observe that the extraction was carried out and all words could be validated by the software.
 
-You can check the results of the analysis here: [02_text_extraction.json]("./output/02_text_extraction.json")
+You can check the results of the analysis here: [02_text_extraction.json](./output/02_text_extraction.json)
 
 ## Step 5: Add captions to images
 
@@ -99,13 +103,15 @@ Let's work with Vision Studio's Add Captions to Images module.
 
 By selecting the desired image we can add captions to the image.
 
+Image Used: [03_add_caption_to_image.jpg](./inputs/03_add_caption_to_image.jpg)
+
 <p align="center">
   <img src="./assets/09_add_caption_to_image_result.png" alt="Add Caption to Image Result">
 </p>
 
 It is possible to observe that the Azure Vision Studio service was able to describe the moment the image passes in an assertive way.
 
-You can check the results of the analysis here: [03_add_caption_to_image.json]("./output/03_add_caption_to_image.json")
+You can check the results of the analysis here: [03_add_caption_to_image.json](./output/03_add_caption_to_image.json)
 
 ## Useful Links:
 
